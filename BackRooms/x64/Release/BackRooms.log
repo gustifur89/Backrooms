@@ -1,0 +1,22 @@
+﻿  Room.cpp
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(52): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Room.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Room.cpp(353): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Room.cpp(354): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Room.cpp(540): error C2511: 'void RoomManager::makeRoomFromNode(void)': overloaded member function not found in 'RoomManager'
+  c:\users\coleman\source\repos\backrooms\backrooms\Room.h(34): note: see declaration of 'RoomManager'
+  main.cpp
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(52): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\coleman\documents\project\project\computeshader\computeshader\Noise.h(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(67): warning C4305: '=': truncation from 'double' to 'float'
